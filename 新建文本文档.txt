@@ -1,3 +1,7 @@
 ﻿ľľ
 
+<<<<<<< HEAD
 111
+=======
+new branch
+>>>>>>> origin/master
